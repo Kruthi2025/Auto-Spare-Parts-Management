@@ -98,7 +98,7 @@ INSERT INTO `employee` (`EMPLOYEE_ID`, `FIRST_NAME`, `LAST_NAME`, `GENDER`, `EMA
 --
 -- Table structure for table `job`
 --
-
+    
 CREATE TABLE `job` (
   `JOB_ID` int(11) NOT NULL,
   `JOB_TITLE` varchar(50) DEFAULT NULL
